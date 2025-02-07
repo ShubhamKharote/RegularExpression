@@ -1,0 +1,11 @@
+C:\Users\Shubham Kharote\source\repos\RegularExpression\RegularExpression\bin\Debug\RegularExpression.exe.config
+C:\Users\Shubham Kharote\source\repos\RegularExpression\RegularExpression\bin\Debug\RegularExpression.exe
+C:\Users\Shubham Kharote\source\repos\RegularExpression\RegularExpression\bin\Debug\RegularExpression.pdb
+C:\Users\Shubham Kharote\source\repos\RegularExpression\RegularExpression\obj\Debug\RegularExpression.csproj.AssemblyReference.cache
+C:\Users\Shubham Kharote\source\repos\RegularExpression\RegularExpression\obj\Debug\RegularExpression.Form1.resources
+C:\Users\Shubham Kharote\source\repos\RegularExpression\RegularExpression\obj\Debug\RegularExpression.Properties.Resources.resources
+C:\Users\Shubham Kharote\source\repos\RegularExpression\RegularExpression\obj\Debug\RegularExpression.csproj.GenerateResource.cache
+C:\Users\Shubham Kharote\source\repos\RegularExpression\RegularExpression\obj\Debug\RegularExpression.csproj.CoreCompileInputs.cache
+C:\Users\Shubham Kharote\source\repos\RegularExpression\RegularExpression\obj\Debug\RegularExpression.exe
+C:\Users\Shubham Kharote\source\repos\RegularExpression\RegularExpression\obj\Debug\RegularExpression.pdb
+C:\Users\Shubham Kharote\source\repos\RegularExpression\RegularExpression\obj\Debug\RegularExpression.Form2.resources
